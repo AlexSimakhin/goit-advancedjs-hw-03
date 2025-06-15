@@ -10,7 +10,6 @@
     "format": "prettier \"**/*.{js,html,css}\" --write"
   },
   "devDependencies": {
-    "css-loader": "^7.1.2",
     "glob": "^11.0.0",
     "postcss": "^8.4.41",
     "postcss-sort-media-queries": "^5.2.0",
